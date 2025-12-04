@@ -1,0 +1,7 @@
+{
+  "name": "Avinash Kotte - AI & Full Stack Portfolio",
+  "description": "Professional portfolio for Avinash Kotte, a Computer Science fresher and AI Engineer featuring an AI-powered chat assistant and machine learning projects.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
